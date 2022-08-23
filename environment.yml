@@ -1,0 +1,26 @@
+name: tap
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.9
+- pip>=18.0
+- conda>=4.5.9
+- patchelf=0.9
+- jpeg
+- pip:
+    - -f https://download.pytorch.org/whl/torch_stable.html
+    - torch==1.12.0+cu116
+    - numpy==1.23.2
+    - gym==0.18.0
+    - mujoco-py==2.1.2.14
+    - matplotlib==3.3.4
+    - typed-argument-parser
+    - git+https://github.com/JannerM/d4rl.git@c3dd04da02acbf4de6cbaa1141deb4f958f03ca9
+    - scikit-image==0.17.2
+    - scikit-video==1.1.11
+    - gitpython
+    - einops
+    - git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
+    - wandb
+    - dm_control
