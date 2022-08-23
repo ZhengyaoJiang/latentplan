@@ -66,3 +66,6 @@ building 'mujoco_py.cymj' extension
 
 Solution:
 `conda install -c conda-forge mesalib`
+
+## Acknowledgements
+The organization of this repo is based on [trajectory-transformer](https://github.com/jannerm/trajectory-transformer) repo. Some of the visualization is based on [diffuser](https://github.com/jannerm/diffuser) repo.
