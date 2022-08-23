@@ -69,3 +69,13 @@ Solution:
 
 ## Acknowledgements
 The organization of this repo is based on [trajectory-transformer](https://github.com/jannerm/trajectory-transformer) repo. Some of the visualization is based on [diffuser](https://github.com/jannerm/diffuser) repo.
+
+## Citation
+```
+@article{jiang2022latentplan,
+    author = {Jiang, Zhengyao and Zhang, Tianjun and Janner, Michael and Li, Yueying and Rocktäschel, Tim and Grefenstette, Edward and Tian, Yuandong},
+    title = {Efficient Planning in a Compact Latent Action Space},
+    journal={arXiv preprint arXiv:2208.10291},
+    year = {2022},
+}
+```
