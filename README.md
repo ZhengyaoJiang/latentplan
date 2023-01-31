@@ -72,10 +72,10 @@ The organization of this repo is based on [trajectory-transformer](https://githu
 
 ## Citation
 ```
-@article{jiang2022latentplan,
-    author = {Jiang, Zhengyao and Zhang, Tianjun and Janner, Michael and Li, Yueying and Rocktäschel, Tim and Grefenstette, Edward and Tian, Yuandong},
-    title = {Efficient Planning in a Compact Latent Action Space},
-    journal={arXiv preprint arXiv:2208.10291},
-    year = {2022},
+@article{jiang2023tap,
+  title={Efficient Planning in a Compact Latent Action Space},
+  author={Jiang, Zhengyao and Zhang, Tianjun and Janner, Michael and Li, Yueying and Rocktäschel, Tim and Grefenstette, Edward and Tian, Yuandong},
+  journal={ICLR2023},
+  year={2023},
 }
 ```
