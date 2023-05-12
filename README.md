@@ -1,6 +1,6 @@
 # Trajectory Autoencoding Planner (TAP)
 
-Code release for [Efficient Planning in a Compact Latent Action Space](https://arxiv.org/abs/2208.10291) (ICLR2023). We recommend to check out the [porject page](https://sites.google.com/view/latentplan) for a quick summary of the method and results.
+Code release for [Efficient Planning in a Compact Latent Action Space](https://arxiv.org/abs/2208.10291) (ICLR2023). We recommend to check out the [project page](https://sites.google.com/view/latentplan) for a quick summary of the method and results.
 
 
 **Abstract**:
